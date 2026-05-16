@@ -1,0 +1,7 @@
+Step by Step.
+
+1- Download AutoHotkey V2.0 (  https://www.autohotkey.com/  )
+2-Download This Repo.
+3-Run Double_Click.ahk (It may display a warning such as "This feature is in use, do you want to change it?". You need to press Next (or something similar).)
+4- Now İf u click front-side button (`XButton2`), You Can Break CPS world record.
+
